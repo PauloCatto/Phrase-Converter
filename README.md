@@ -1,27 +1,7 @@
-# App1
+O conversor de frases contem 4 frases inseridas em inglês e em português, para cada acerto do usuario a barra de progresso aumenta em 25% e para cada erro o item de coração é removido até as chances do usuario acabarem. Após o fim das opções um template é exibido na tela informando o usuario, em caso de acerto ou caso as opcoes se esgotem devido a erros, um botão para reiniciar a os testes tambem é disponibilizado para o usuario iniciar uma nova tentativa.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+<br>
 
-## Development server
+<hr>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Captura de Tela (158)](https://github.com/PauloCatto/Phrase-converter/assets/108766424/f9935447-dd59-4fa6-8c5c-a9113c5288e0)
